@@ -35,7 +35,7 @@ function Login(User_Name, Password) {
         }
     }
     if(result == true){
-        document.write("<b>Trang Chính</b>");
+        document.write("<b>Arouny Chính</b>");
     }else{
         alert("Tên người dùng hoặc mật khẩu không chính xác!")
     }
